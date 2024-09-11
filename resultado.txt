@@ -1,0 +1,71 @@
+PIs vencedores:
+
+Código: 301
+Título: Sistema de Gerenciamento de Tarefas
+Aluno: Lucas Pereira
+Curso aluno: ADS
+Orientador: Carlos Silva Rocha
+Curso orientador: ADS
+Votos: 1
+
+Código: 304
+Título: Aplicativo de Controle Financeiro
+Aluno: Felipe Nunes
+Curso aluno: DSM
+Orientador: Carlos Silva Rocha
+Curso orientador: ADS
+Votos: 1
+
+Eleitores presentes:
+441.714.121-53
+177.925.748-14
+
+Eleitores ausentes:
+044.310.610-02
+017.374.865-12
+601.563.698-00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
